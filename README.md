@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am studying data science with Datascientest.com in order to become a Data Analyst.
+
+I also do web development in my spare time.
+
+Have a look at my LinkedIn profile : https://www.linkedin.com/in/jeremy-piris/
+
 <!--
 **JeremyPiris/JeremyPiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
